@@ -2,6 +2,7 @@
  * Autor: Aurelio Gallardo Rodríguez
  * Fecha: 3/9/2022
  * Título: lámpara de lectura usando Servidor Web asíncrono ESP8266
+ * BY - SA - NC
  * 
  * Información.  
  * proyecto basado en los ejemplos de Rui Santos.

@@ -16,8 +16,8 @@
 // #include "conectarWifi.h" // carga conexión de ficheros
 
 // Constantes
-const char* ssid = "JAZZTEL_shny";
-const char* password = "3z7s5tvbtu4s";
+const char *ssid = "XXXXXXXXX"; // cambiar
+const char *password = "XXXXXXXXXXXX"; // cambiar
 String newHostname = "milampara";
 
 IPAddress ip(192,168,1,20);     
