@@ -8,6 +8,8 @@ Luces de lectura construidas con ESP8266
 En esta carpeta almaceno la versión definitiva del dispositivo: programa .ino para el IDE Arduino, carpeta **data** con la página web (el ESP8266 actúa como servidor) e instrucciones básicas.
 El servidor puede encontrarse en la dirección **192.168.1.20** (puede cambiarse) o en la dirección local **milampara** (no funciona con móviles). 
 
+En la programación hay que introducir el **SSID** de la red y la **contraseña** para que funcione. 
+
 En el modo manual, una vez encendido las luces parpadean un instante. El sistema se inicia, tardando unos segundos en activarse. Tras ese tiempo, pueden pulsarse los botones que actuarán, indistintamente, en el lado izquierdo o derecho. 
 Una pulsación aumentará la intensidad del nivel 0 al 10. Posteriores pulsaciones disminuirán del 10 al 0 y así, sucesivamente. Mejor apagar el dispositivo con el interruptor manual. 
 
