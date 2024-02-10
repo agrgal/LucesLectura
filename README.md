@@ -1,6 +1,8 @@
 # LucesLectura
 Luces de lectura construidas con ESP8266
 
+A reading light holder device to hook onto bed head (IoT can be controlled by web page on your WiFi net). All electronic and information can be found in https://github.com/agrgal/LucesLectura
+
 ## Contenido
 
 ### 1W_Power_Version7_tiempo_apagado
@@ -36,6 +38,7 @@ Una pieza es la base, que se monta sobre la pared con dos tacos y dos tornillos,
 la colocación del módulo TP4056 para permitir la carga. Por último, cubrimos con la tapa. 
 
 [Ver trabajo en ONSHAPE] (https://cad.onshape.com/documents/27e3b7ccac053051369a8975/w/175055362edb9ac8fa9f8f1a/e/0181f3b4124862bc1465c52c?renderMode=0&uiState=645d2dc07caf9401d7ae401f)
+[Ver trabajo en github] (https://github.com/agrgal/LucesLectura)
 
 ### Versiones_previas
 
